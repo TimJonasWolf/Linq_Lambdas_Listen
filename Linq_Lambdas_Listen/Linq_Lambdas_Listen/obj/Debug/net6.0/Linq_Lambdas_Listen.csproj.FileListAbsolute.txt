@@ -1,0 +1,14 @@
+C:\Users\Wolf Tim\source\repos\Linq_Lambdas_Listen\Linq_Lambdas_Listen\bin\Debug\net6.0\Linq_Lambdas_Listen.exe
+C:\Users\Wolf Tim\source\repos\Linq_Lambdas_Listen\Linq_Lambdas_Listen\bin\Debug\net6.0\Linq_Lambdas_Listen.deps.json
+C:\Users\Wolf Tim\source\repos\Linq_Lambdas_Listen\Linq_Lambdas_Listen\bin\Debug\net6.0\Linq_Lambdas_Listen.runtimeconfig.json
+C:\Users\Wolf Tim\source\repos\Linq_Lambdas_Listen\Linq_Lambdas_Listen\bin\Debug\net6.0\Linq_Lambdas_Listen.dll
+C:\Users\Wolf Tim\source\repos\Linq_Lambdas_Listen\Linq_Lambdas_Listen\bin\Debug\net6.0\Linq_Lambdas_Listen.pdb
+C:\Users\Wolf Tim\source\repos\Linq_Lambdas_Listen\Linq_Lambdas_Listen\obj\Debug\net6.0\Linq_Lambdas_Listen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wolf Tim\source\repos\Linq_Lambdas_Listen\Linq_Lambdas_Listen\obj\Debug\net6.0\Linq_Lambdas_Listen.AssemblyInfoInputs.cache
+C:\Users\Wolf Tim\source\repos\Linq_Lambdas_Listen\Linq_Lambdas_Listen\obj\Debug\net6.0\Linq_Lambdas_Listen.AssemblyInfo.cs
+C:\Users\Wolf Tim\source\repos\Linq_Lambdas_Listen\Linq_Lambdas_Listen\obj\Debug\net6.0\Linq_Lambdas_Listen.csproj.CoreCompileInputs.cache
+C:\Users\Wolf Tim\source\repos\Linq_Lambdas_Listen\Linq_Lambdas_Listen\obj\Debug\net6.0\Linq_Lambdas_Listen.dll
+C:\Users\Wolf Tim\source\repos\Linq_Lambdas_Listen\Linq_Lambdas_Listen\obj\Debug\net6.0\refint\Linq_Lambdas_Listen.dll
+C:\Users\Wolf Tim\source\repos\Linq_Lambdas_Listen\Linq_Lambdas_Listen\obj\Debug\net6.0\Linq_Lambdas_Listen.pdb
+C:\Users\Wolf Tim\source\repos\Linq_Lambdas_Listen\Linq_Lambdas_Listen\obj\Debug\net6.0\Linq_Lambdas_Listen.genruntimeconfig.cache
+C:\Users\Wolf Tim\source\repos\Linq_Lambdas_Listen\Linq_Lambdas_Listen\obj\Debug\net6.0\ref\Linq_Lambdas_Listen.dll
